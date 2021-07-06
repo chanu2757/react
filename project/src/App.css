@@ -63,4 +63,9 @@
   text-align:left;
   padding-left:20px;
   padding-right:20px;
+  cursor: pointer;
+}
+
+.ddabong{
+  cursor : pointer;
 }
